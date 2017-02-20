@@ -1,0 +1,5 @@
+.cabal-sandbox/
+cabal.sandbox.config
+.haskell-ghc-mod.json
+dist
+dist-*
